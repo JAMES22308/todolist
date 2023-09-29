@@ -8,8 +8,8 @@ jsonfile = "sample.json"
 
 def getdata():
     id = input("enter id: ")
-    firstname = input("enter firstname: ")
-    lastname = input("enter lastname: ")
+    firstname = input("Enter firstname: ")
+    lastname = input("Enter lastname: ")
     todo = input("todo: ")
 
     dictionary = {
